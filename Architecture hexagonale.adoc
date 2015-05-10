@@ -1,0 +1,31 @@
+﻿= Coder sans peur du changement avec la "même pas mal !" Architecture Hexagonale
+Présenté à Devoxx France 2015 par Cyrille Martraire https://twitter.com/cyriux/[@cyrius] et Thomas Pierrain https://twitter.com/tpierrain[@tpierrain]
+Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
+:backend: deckjs
+:deckjs_theme: web-2.0
+:deckjs_transition: fade
+:blank:
+:navigation:
+:toc:
+:split:
+
+== Présentation de la session
+
+* Cette session de type Université est une session longue de 3 heures.
+* Vous allez me dire 3 heures c'est long ! oui mais en fait non :)
+* 3 heures, c'est le temps qu'il faut pour présenter le principe, faire un exercice et confronter les différentes idées.
+
+== L'architecture hexagonale c'est quoi ?
+
+* Le principe de l'architecture hexagonale est de s'assurer du sens des dépendances : Dependency Inversion Principle
+* Isoler le modèle métier afin qu'il ne dépende pas de la technique et du monde extérieur.
+
+== Les avantages ?
+
+* Un modèle isolé est très facile à faire évoluer, refactorer, ...
+* Il est également très facile de rajouter des connecteurs avec le monde extérieur sans casser l'existant
+
+== Comment faire ?
+
+* 
+
