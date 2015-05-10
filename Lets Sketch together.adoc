@@ -1,6 +1,6 @@
-=Let's Sketch together
-Présenté à Devoxx France 2015 par Alvin Berthelot https://twitter.com/alvinberthelot[@alvinberthelot]
-Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
+= Let's Sketch together
+PrÃ©sentÃ© Ã  Devoxx France 2015 par Alvin Berthelot https://twitter.com/alvinberthelot[@alvinberthelot]
+RÃ©sumÃ© par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
 :backend: deckjs
 :deckjs_theme: web-2.0
 :deckjs_transition: fade
@@ -11,27 +11,27 @@ Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
 
 == Un atelier c'est quoi
 
-* Parmi les différentes formes de présentations du Devoxx, il y a les ateliers.
-* Un atelier, c'est un peu un genre d'université mais avec plus de travaux pratiques.
-* Ca dure 3 heures, c'est entrecoupé de présentations, de TD/TP et dans cet atelier là, d'interview.
+* Parmi les diffÃ©rentes formes de prÃ©sentations du Devoxx, il y a les ateliers.
+* Un atelier, c'est un peu un genre d'universitÃ© mais avec plus de travaux pratiques.
+* Ca dure 3 heures, c'est entrecoupÃ© de prÃ©sentations, de TD/TP et dans cet atelier lÃ , d'interview.
 
 == Le sketching c'est quoi
 
-* L'objectif du sketching est de définir la bonne interface que le client attend.
+* L'objectif du sketching est de dÃ©finir la bonne interface que le client attend.
 Vaste programme me direz-vous... justement ! l'objectif est d'avoir une solution qui tient la route en un minimum de temps.
-* Le sketching permet, en s'appuyant sur un formalisme de dessin, de communiquer, véhiculer ses idées et échanger entre plusieurs profils.
+* Le sketching permet, en s'appuyant sur un formalisme de dessin, de communiquer, vÃ©hiculer ses idÃ©es et Ã©changer entre plusieurs profils.
 
 == Ok mais comment ?
 
 * On attaque la recette :
-* Pour faire un bon sketch, réunissez autour d'une table entre 4 et 6 personnes avec au moins les profils suivants :
+* Pour faire un bon sketch, rÃ©unissez autour d'une table entre 4 et 6 personnes avec au moins les profils suivants :
  * Un business (commercial)
  * Un designer
  * Un codeur
  * Un architecte
-* En amont, une personne a rédigé sur une feuille le sujet de l'application qui nécessite une interface à définir.
-* Dans un premier temps, le groupe prend connaissance du sujet sans dialogue, c'est vraiment personnel pour que chacun puisse vraiment se faire une idée sans être influencé
-* Dans un second temps, toujours sans communication, pendant 6 minutes, chacun va jetter sur le papier ses idées d'interface en essayant de représenter l'interface.
+* En amont, une personne a rÃ©digÃ© sur une feuille le sujet de l'application qui nÃ©cessite une interface Ã  dÃ©finir.
+* Dans un premier temps, le groupe prend connaissance du sujet sans dialogue, c'est vraiment personnel pour que chacun puisse vraiment se faire une idÃ©e sans Ãªtre influencÃ©
+* Dans un second temps, toujours sans communication, pendant 6 minutes, chacun va jetter sur le papier ses idÃ©es d'interface en essayant de reprÃ©senter l'interface.
 
 
 
