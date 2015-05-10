@@ -39,13 +39,13 @@ Les 6 minutes sont vraiment importantes ici. + Cela va forcer les gens à faire 
 
 == La présentation
 
-* Dans un troisième temps on commence les discutions. Mais pas n'importe comment: chacun a 2 minutes (chrono) pour présenter aux autres son/ses dessin(s) et expliquer ce qu'il a voulu faire. + 
+* Dans un troisième temps on commence les discutions. Mais pas n'importe comment: chacun a *2 minutes* (chrono) pour présenter aux autres son/ses dessin(s) et expliquer ce qu'il a voulu faire. + 
 Pendant ce temps, les autres n'ont pas le droit de l'interrompre ! pas de question, pas de remarque, rien ! même une fois le discours terminé.
 
 == La négociation
 
 * Une fois que tout le monde a exprimé son avis sur la bonne manière de répondre au besoin, vient le temps de la négociation.
-* Pendant 12 minutes (et pas une de plus) les gens de l'équipe vont échanger dire ce qu'ils ont trouvé bien, moins bien et surtout pourquoi. + 
+* Pendant *12 minutes* (et pas une de plus) les gens de l'équipe vont échanger dire ce qu'ils ont trouvé bien, moins bien et surtout pourquoi. + 
 Rien n'est pire que dire ton idée elle est nulle point. Il faut toujours expliquer à l'autre pourquoi ça ne tient pas la route. +
 Ces 12 minutes sont aussi le moment pour l'équipe de trouver LA solution qui fait concensus. Mais attention, en 12 minutes il faut aussi la représenter sur papier avec des dessins !
 
@@ -53,7 +53,7 @@ Ces 12 minutes sont aussi le moment pour l'équipe de trouver LA solution qui fa
 
 * Le test ? eh oui une interface, ça se teste.
 * Mais avant de pouvoir faire un test il faut savoir ce qu'on veut tester !
-* Donc en 12 minutes, on va prévoir les points sensibles de l'interface sur lesquels on aimerait des retours.
+* Donc en *12 minutes*, on va prévoir les points sensibles de l'interface sur lesquels on aimerait des retours.
 * Pour cela, il faut prévoir des questions mais aussi prévoir à qui on va poser ces questions (collègues, clients, communauté, public dans la rue, ...)
 mais il faut également savoir comment on va recueillir les résultats (interview, sondage, ...)
 
