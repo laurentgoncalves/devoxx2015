@@ -33,3 +33,8 @@ Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
 * Mettre en place des interfaces dès que le domaine (notre modèle fonctionnel central) a besoin de s'interfacer avec le monde extérieur
 * Un Adapter, externe à notre modèle, implémentera alors cette interface et permettra de connecter la librairie externe
 
+== Mes impressions
+* Ce type d'approche permet effectivement une plus grande modularité et souplesse aux changements extérieurs
+* Par contre, de nombreuses classes et interfaces sont nécessaires pour interconnecter des modèles
+* A mon avis, ces principes d'inversion de dépendance peuvent être très interessants mais pas forcément tout le temps
+
