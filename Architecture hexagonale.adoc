@@ -1,4 +1,4 @@
-﻿= Coder sans peur du changement avec la "même pas mal !" Architecture Hexagonale
+﻿= Coder sans peur du changement - Architecture Hexagonale
 Présenté à Devoxx France 2015 par Cyrille Martraire https://twitter.com/cyriux/[@cyrius] et Thomas Pierrain https://twitter.com/tpierrain[@tpierrain]
 Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
 :backend: deckjs
@@ -27,5 +27,7 @@ Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
 
 == Comment faire ?
 
-* 
+* Mettre en place le http://en.wikipedia.org/wiki/Dependency_inversion_principle[DIP Principle]
+* Mettre en place des interfaces dès que le domaine (notre modèle fonctionnel central) a besoin de s'interfacer avec le monde extérieur
+* Un Adapter, externe à notre modèle, implémentera alors cette interface et permettra de connecter la librairie externe
 
