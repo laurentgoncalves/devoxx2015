@@ -9,11 +9,11 @@ Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
 :toc:
 :split:
 
-== Un atelier c'est quoi
+== Un atelier ?
 
 * Parmi les différentes formes de présentations du Devoxx, il y a les ateliers.
 * Un atelier, c'est un peu un genre d'université mais avec plus de travaux pratiques.
-* Ca dure 3 heures, c'est entrecoupé de présentations, de TD/TP et dans cet atelier là, d'interview.
+* Ca dure 3 heures, c'est entre-coupé de présentations, de TD/TP et dans cet atelier là, d'interview.
 
 == Le sketching c'est quoi
 
@@ -29,15 +29,44 @@ Vaste programme me direz-vous... justement ! l'objectif est d'avoir une solution
 *** Un designer
 *** Un codeur
 *** Un architecte
+** Difficile de réunir ces profils ? pas d'inquiétude c'est seulement pour quelques minutes ! c'est tout l'avantage de cette approche.
 ** En amont, une personne a rédigé sur une feuille le sujet de l'application qui nécessite une interface à définir.
-** Dans un premier temps, le groupe prend connaissance du sujet sans dialogue, c'est vraiment personnel pour que chacun puisse vraiment se faire une idée sans être influencé
-** Dans un second temps, toujours sans communication, *pendant 6 minutes*, chacun va jetter sur le papier ses idées d'interface en essayant de représenter l'interface.+
-Les 6 minutes sont vraiment importantes ici
+
+== La réflexion personnelle
+* Dans un premier temps, le groupe prend connaissance du sujet sans dialogue, c'est vraiment personnel pour que chacun puisse vraiment se faire une idée sans être influencé
+* Dans un second temps, toujours sans communication, *pendant 6 minutes*, chacun va jetter sur le papier ses idées d'interface en essayant de représenter l'interface. +
+Les 6 minutes sont vraiment importantes ici. + Cela va forcer les gens à faire des choix (qu'ils soient bons ou pas) mais à prendre des décisions et vite !
+
+== La présentation
+
+* Dans un troisième temps on commence les discutions. Mais pas n'importe comment: chacun a 2 minutes (chrono) pour présenter aux autres son/ses dessin(s) et expliquer ce qu'il a voulu faire. + 
+Pendant ce temps, les autres n'ont pas le droit de l'interrompre ! pas de question, pas de remarque, rien ! même une fois le discours terminé.
+
+== La négociation
+
+* Une fois que tout le monde a exprimé son avis sur la bonne manière de répondre au besoin, vient le temps de la négociation.
+* Pendant 12 minutes (et pas une de plus) les gens de l'équipe vont échanger dire ce qu'ils ont trouvé bien, moins bien et surtout pourquoi. + 
+Rien n'est pire que dire ton idée elle est nulle point. Il faut toujours expliquer à l'autre pourquoi ça ne tient pas la route. +
+Ces 12 minutes sont aussi le moment pour l'équipe de trouver LA solution qui fait concensus. Mais attention, en 12 minutes il faut aussi la représenter sur papier avec des dessins !
+
+== Le test
+
+* Le test ? eh oui une interface, ça se teste.
+* Mais avant de pouvoir faire un test il faut savoir ce qu'on veut tester !
+* Donc en 12 minutes, on va prévoir les points sensibles de l'interface sur lesquels on aimerait des retours.
+* Pour cela, il faut prévoir des questions mais aussi prévoir à qui on va poser ces questions (collègues, clients, communauté, public dans la rue, ...)
+mais il faut également savoir comment on va recueillir les résultats (interview, sondage, ...)
+
+== La finalisation
+
+* En bon exercice qui se respecte on obtient un résultat ! Une fois les tests effectués, on réunit à nouveau l'équipe pour quelques minutes (12).
+* Et on fait émerger l'interface définitive qui prend en compte les retours utilisateurs.
+
+== La conclusion
+
+* Cette approche de définition d'une interface est assez intéressante surtout dans l'aspect timing : toutes les actions sont contraintes par le temps.
+* Ca apporte d'une part l'économie de temps des personnes requises mais aussi cela force les gens à prendre des décisions même si c'est dans l'urgence.
+* Au final, on se retrouve avec une interface assez avancée et pertinente en moins d'une heure ce qui est en soit assez bluffant.
 
 
-
-
-
-
-
-Les slides sont disponibles https://speakerdeck.com/alvinberthelot/devoxx15-lets-sketch-together[Ici]
+Vous pouvez retrouver les slides de cette présentation https://speakerdeck.com/alvinberthelot/devoxx15-lets-sketch-together[ici].
