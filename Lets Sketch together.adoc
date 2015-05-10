@@ -1,4 +1,4 @@
-﻿=Let's Sketch together
+= Let's Sketch together
 Présenté à Devoxx France 2015 par Alvin Berthelot https://twitter.com/alvinberthelot[@alvinberthelot]
 Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
 :backend: deckjs
@@ -31,7 +31,8 @@ Vaste programme me direz-vous... justement ! l'objectif est d'avoir une solution
 *** Un architecte
 ** En amont, une personne a rédigé sur une feuille le sujet de l'application qui nécessite une interface à définir.
 ** Dans un premier temps, le groupe prend connaissance du sujet sans dialogue, c'est vraiment personnel pour que chacun puisse vraiment se faire une idée sans être influencé
-** Dans un second temps, toujours sans communication, pendant 6 minutes, chacun va jetter sur le papier ses idées d'interface en essayant de représenter l'interface.
+** Dans un second temps, toujours sans communication, *pendant 6 minutes*, chacun va jetter sur le papier ses idées d'interface en essayant de représenter l'interface.+
+Les 6 minutes sont vraiment importantes ici
 
 
 
