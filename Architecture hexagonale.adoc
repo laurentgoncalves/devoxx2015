@@ -1,9 +1,6 @@
 ﻿= Coder sans peur du changement - Architecture Hexagonale
 Présenté à Devoxx France 2015 par Cyrille Martraire https://twitter.com/cyriux/[@cyrius] et Thomas Pierrain https://twitter.com/tpierrain[@tpierrain]
 Résumé par https://twitter.com/lgonKlves/[Laurent Goncalves] (e-Citiz Softeam)
-:backend: deckjs
-:deckjs_theme: web-2.0
-:deckjs_transition: fade
 :blank:
 :navigation:
 :toc:
